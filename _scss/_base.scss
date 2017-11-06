@@ -1,0 +1,90 @@
+
+html,
+body {
+  position: relative;
+  min-height: 100%;
+  font-weight: 300;
+  background-color: #f1f6fd;
+  color: #333;
+}
+p{
+  font-weight: 300;
+}
+h1,h2,h3,h4,h5,h6{
+  font-weight: 500;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,.7);
+    font-weight: 200;
+    font-size: 16px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:active{
+  color: rgb(255,255,255);
+  font-weight: 300;
+}
+.navbar-dark{
+  background-color: transparent;
+  position: absolute;
+  width: 100%;
+}
+/* ================================================================================================ */
+/* Hero Unit */
+/* ================================================================================================ */
+.hero-unit {
+  background-size: cover;
+}
+.text-container{
+  color: #fff;
+}
+/* ================================================================================================ */
+/* Buttons */
+/* ================================================================================================ */
+.btn{
+  padding: 8px 20px;
+}
+/* ================================================================================================ */
+/* About Unit */
+/* ================================================================================================ */
+.about-section{
+   padding: 60px 0px;
+   background-color: #212121;
+   color: #BDBDBD;
+}
+.social-icons-conatianer{
+  position: absolute;
+  top: 18%;
+  right: 40px;
+  width: auto;
+  color: #fff;
+  font-size: 28px;
+}
+.social-icons-conatianer li{
+  margin-bottom: 10px;
+}
+.social-icons-conatianer li a{
+  color: #fff;
+}
+/* ================================================================================================ */
+/* Footer */
+/* ================================================================================================ */
+.footer{
+  background-color: #212121;
+  padding: 20px 0px;
+  color: #fff;
+}
+.footer-social-icons{
+  list-style: none;
+}
+.footer-social-icons li{
+  display: inline-block;
+  padding: 0px 10px;
+}
+.footer-social-icons li a{
+  color: #fff;
+}
+.footer-social-icons li a i{
+  font-size: 1.2em;
+}
