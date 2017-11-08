@@ -12,13 +12,13 @@ Converge Conf promises two-days of enriching experiences and an experiment based
 Today, technology is advancing rapidly and so is its implementation. Part of this advancement, is a new approach that has been gaining ground lately to help build awareness about the latest technologies; Conferences. This new gimmick is responsible for changing the lives of several students in the major cities and is helping harbor skills which to contribute back to the growth. But the conferences are flawed due to their failure in providing the same kind of opportunities to the students living in towns and other parts of rural areas.
 ConvergeConf is here to change this and you can be a part of it as well. ConvergeConf is a conference which primarily focuses on offering exposure, and at the same time provides the right resources to help students hit the ground running while discovering new and exciting technologies. It is a single-track event that is being conducted from the 15th – 16th of December in Kakinada. The following tracks have been finalized by the Core Committee:
 
-Artificial Intelligence Machine Learning
-Distributed Systems / Operating Systems
-Blockchain
-Programming Languages
-Security
-Networking
-Cloud Infrastructures
+1.Artificial Intelligence Machine Learning
+2.Distributed Systems / Operating Systems
+3.Blockchain
+4.Programming Languages
+5.Security
+6.Networking
+7.Cloud Infrastructures
 
 With this, we extend a warm welcome to you and would love to hear your preference from the above-mentioned tracks. 
 
@@ -28,13 +28,13 @@ Hope to hear from you at the earliest.
 Today, technology is advancing rapidly and so is its implementation. Part of this advancement, is a new approach that has been gaining ground lately to help build awareness about the latest technologies; Conferences. This new gimmick is responsible for changing the lives of several students in the major cities and is helping harbor skills which to contribute back to the growth. But the conferences are flawed due to their failure in providing the same kind of opportunities to the students living in towns and other parts of rural areas.
 ConvergeConf is here to change this and you can be a part of it as well. ConvergeConf is a conference which primarily focuses on offering exposure, and at the same time provides the right resources to help students hit the ground running while discovering new and exciting technologies. It is a single-track event that is being conducted from the 15th – 16th of December in Kakinada. The following tracks have been finalized by the Core Committee:
 
-Artificial Intelligence Machine Learning
-Distributed Systems / Operating Systems
-Blockchain
-Programming Languages
-Security
-Networking
-Cloud Infrastructures
+1.Artificial Intelligence Machine Learning
+2.Distributed Systems / Operating Systems
+3.Blockchain
+4.Programming Languages
+5.Security
+6.Networking
+7.Cloud Infrastructures
 
 Conferences of this stature cannot be conducted without the support of elite corporate houses. With this, we extend a warm welcome to you and hope to receive a positive response.
 
