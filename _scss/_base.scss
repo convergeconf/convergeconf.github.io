@@ -30,6 +30,15 @@ h1,h2,h3,h4,h5,h6{
   position: absolute;
   width: 100%;
 }
+.navbar-toggler{
+  border: none;
+}
+@media (max-width: 992px) {
+  .navbar-collapse {
+    background-color: #222;
+    z-index: 999;
+  }
+}
 /* ================================================================================================ */
 /* Hero Unit */
 /* ================================================================================================ */
@@ -38,6 +47,18 @@ h1,h2,h3,h4,h5,h6{
 }
 .text-container{
   color: #fff;
+}
+.text-container h1 {
+  font-size: 4em;
+  margin-bottom: 10px;
+}
+@media (max-width: 768px) {
+  .text-container h1 {
+    font-size: 2em;
+  }
+  .text-container p {
+    font-size: 1em;
+  }
 }
 /* ================================================================================================ */
 /* Buttons */
@@ -53,19 +74,50 @@ h1,h2,h3,h4,h5,h6{
    background-color: #212121;
    color: #BDBDBD;
 }
-.social-icons-conatianer{
-  position: absolute;
-  top: 18%;
-  right: 40px;
+.social-icons-container{
+  position: fixed;
+  top: 200px;
+  right: 0px;
+  padding: 10px 10px 0px 10px;
   width: auto;
   color: #fff;
   font-size: 28px;
+  background-color: #dc3545;
+  border-radius: 2px;
 }
-.social-icons-conatianer li{
+.social-icons-container ul{
+  padding: 0px;
+  margin-bottom: 0px;
+}
+.social-icons-container li{
   margin-bottom: 10px;
 }
-.social-icons-conatianer li a{
+.social-icons-container li a{
   color: #fff;
+}
+@media (max-width: 768px) {
+  .social-icons-container{
+    position: relative;
+    display: block;
+    color: #fff;
+    font-size: 28px;
+    text-align: center;
+    height: auto;
+    align-self: end;
+    width: 100%;
+    top: 0;
+    right: 0;
+    margin-top: 20px;
+    background-color: transparent;
+  }
+  .social-icons-container ul{
+    padding: 0px;
+    margin: 0px;
+  }
+  .social-icons-container ul li{
+    display: inline-block;
+    padding: 5px 20px;
+  }
 }
 .section{
   padding: 60px 0px;
